@@ -1,0 +1,5 @@
+props:
+  dynamo:
+    customer-table-name: "demo-customer-info"
+    region: "ap-southeast-2"
+    endpoint: "https://dynamodb.ap-southeast-2.amazonaws.com"
